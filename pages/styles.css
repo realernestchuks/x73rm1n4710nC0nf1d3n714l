@@ -1,0 +1,7 @@
+/* styles.css */
+.custom-toast {
+    background-color: rgba(52, 211, 153, 0.5); /* bg-green-500 with 50% opacity */
+    color: white; /* Text color */
+    /* Add any additional styles as needed */
+  }
+  
